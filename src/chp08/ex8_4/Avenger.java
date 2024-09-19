@@ -8,7 +8,7 @@ public class Avenger {
         this.name = name;
         this.healthPower = healthPower;
     }
-    public String getName() {
+        public String getName() {
         return name;
     }
     public void setName(String name) {
