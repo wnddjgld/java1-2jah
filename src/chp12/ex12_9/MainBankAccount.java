@@ -12,8 +12,8 @@ public class MainBankAccount {
         try {
             File file = new File("result_account.txt");
             FileWriter fw = new FileWriter(file);
-            fw.write(b1.toString()+"\n");
-            fw.write(b2.toString()+"\n");
+            fw.write(b1.toString() + "\n");
+            fw.write(b2.toString() + "\n");
             fw.close();
         } catch (IOException e) {
             System.out.println(e);
