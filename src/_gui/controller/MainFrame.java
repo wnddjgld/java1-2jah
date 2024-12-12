@@ -7,9 +7,9 @@ import java.awt.*;
 
 public class MainFrame extends JFrame {
 
-    public static final int FRAME_WIDTH = 700;
+    public static final int FRAME_WIDTH = 950;
 
-    public static final int FRAME_HEIGHT = 500;
+    public static final int FRAME_HEIGHT = 550;
 
     public static int FRAME_X;
     public static int FRAME_Y;
